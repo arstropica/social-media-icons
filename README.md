@@ -2,19 +2,19 @@
 
 * * *
 
-	**Contributors:** arstropica
+**Contributors:** arstropica
 
-	**Donate link:** http://
+**Donate link:** http://
 
-	**Tags:** social media, icons, facebook, twitter, Digg, email, flickr, googleplus, linkedin, pinterest, Reddit, rss, social, stumbleupon, vimeo, wordpress, yelp, youtube
+**Tags:** social media, icons, facebook, twitter, Digg, email, flickr, googleplus, linkedin, pinterest, Reddit, rss, social, stumbleupon, vimeo, wordpress, yelp, youtube
 
-	**Requires at least:** 3.0
+**Requires at least:** 3.0
 
-	**Tested up to:** 3.5.1
+**Tested up to:** 3.5.1
 
-	**Stable tag:** 1.2.7
+**Stable tag:** 1.2.7
 
-	**License:** 	
+**License:** 
 
 * * *
 
