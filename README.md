@@ -170,9 +170,6 @@ Version 1.2.7
 
 ### Upgrade Notice
 
-	<dl>
-			</dl>
-
 ### Arbitrary section
 
 The icons in this plugin are distributed freely by a 3rd party and either licensed to be used in a personal or commercial capacity under several licenses including the Creative Commons, FastIcon and various other licenses.
